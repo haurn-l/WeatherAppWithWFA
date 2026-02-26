@@ -18,7 +18,7 @@ Projenin kalbi, daha önce geliştirilen konsol uygulamasının sağlam asenkron
 ## 📖 Nasıl Çalıştırılır?
 1. Bu depoyu bilgisayarınıza klonlayın veya `.zip` olarak indirin.
 2. [OpenWeatherMap](https://openweathermap.org/) üzerinden ücretsiz bir API anahtarı edinin.
-3. Visual Studio'da projeyi açın ve `Services/WeatherService.cs` dosyasına giderek `_apiKey` alanına kendi gizli anahtarınızı yapıştırın.
+3. Visual Studio'da projeyi açın ve `Services/WeatherService.cs` dosyasına giderek `YOUR_API_KEY` alanına kendi gizli anahtarınızı yapıştırın.
 4. Üstteki "Start" butonuna basarak projeyi derleyip çalıştırın.
 
 ---
